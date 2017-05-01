@@ -1,4 +1,4 @@
-// 
+// Just change these 
 
 const numberOfPowers = 10;
 const amountOfEachPower = 10;
